@@ -6079,6 +6079,7 @@ svg {
   margin-top: 20px;
 }
 .checkout-page .columns-wrap {
+  position: relative;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;

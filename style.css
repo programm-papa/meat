@@ -8029,7 +8029,7 @@ svg {
     max-width: 305px;
   }
   .error-page .error::before {
-    width: 328px;
+    width: 305px;
     position: relative;
   }
 }
